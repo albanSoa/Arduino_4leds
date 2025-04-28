@@ -58,6 +58,3 @@ Cette librairie est **incluse de base** dans l'IDE Arduino.
 - La température est calculée selon la formule officielle du capteur.
 
 ---
-
-## 📸 Exemple de sortie série
-
